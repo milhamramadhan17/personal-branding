@@ -234,8 +234,8 @@ body {
 
 .pengalaman .row .pengalaman-card .img-size img {
   border: solid white 1.7rem;
-  width: 80%;
-  max-width: 500px;
+  width: 96%;
+  max-width: 600px;
   max-height: 350px;
 }
 
